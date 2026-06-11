@@ -1,0 +1,15 @@
+{
+  "name": "blog-dafne",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-04-01",
+  "assets": {
+    "directory": "./public"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "blog-dafne-db",
+      "database_id": "c18063c9-591a-4f1a-a37a-915fafc1f6f5"
+    }
+  ]
+}
